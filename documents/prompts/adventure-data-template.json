@@ -1,0 +1,30 @@
+{
+  "name": "Adventure Name - Duration",
+  "activity": "hiking|fishing|exploration|dining|social",
+  "city": "City, State",
+  "description": "Detailed description of the adventure experience, highlighting key features and what makes it special.",
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "activity": "Activity Name",
+      "location": "Specific Location",
+      "description": "Optional detailed description of the activity",
+      "partnerLink": "https://www.alltrails.com/trail/path",
+      "partnerName": "AllTrails"
+    },
+    {
+      "time": "12:00 PM",
+      "activity": "Lunch Activity",
+      "location": "Restaurant/Location Name",
+      "description": "Optional description of dining experience",
+      "partnerLink": "https://www.opentable.com/restaurant-name",
+      "partnerName": "OpenTable"
+    },
+    {
+      "time": "3:00 PM",
+      "activity": "Afternoon Activity",
+      "location": "Location Name",
+      "description": "Optional activity description"
+    }
+  ]
+}
